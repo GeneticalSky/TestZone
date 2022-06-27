@@ -1,0 +1,14 @@
+body{
+    margin: 4px;
+    font-family: sans-serif;
+    font-style: oblique;
+}
+img{
+    height: 350px;
+    margin: 5px;
+}
+section{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
